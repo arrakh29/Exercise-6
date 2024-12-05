@@ -51,3 +51,7 @@ Kedua task ini mengakses sumber daya bersama menggunakan mekanisme **critical se
 ---
 
 ## 🚀 Cara Menggunakan
+
+## Uji Coba
+<img src="Ex_6.gif" alt="Uji Coba GIF" style="max-width: 600px; height: auto">
+
